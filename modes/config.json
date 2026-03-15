@@ -9,6 +9,9 @@
             "hoops": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/hoops.save",
             "rumble": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/rumble.save",
             "snowday": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/snowday.save"
+        },
+        "nro": {
+            "2v2": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/nro/2v2.save"
         }
     }
 }
