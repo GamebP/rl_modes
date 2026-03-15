@@ -1,6 +1,6 @@
 {
     "modes": {
-        "normal": {
+        "S20 SSL": {
             "1v1": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/1v1.save",
             "2v2": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/2v2.save",
             "3v3": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/3v3.save",
@@ -10,7 +10,7 @@
             "rumble": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/rumble.save",
             "snowday": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/normal/snowday.save"
         },
-        "nro": {
+        "Nro": {
             "2v2": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/nro/2v2.save"
         }
     }
