@@ -12,6 +12,9 @@
         },
         "Nro": {
             "2v2": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/nro/2v2.save"
+        },
+        "IDK": {
+            "2v2": "https://github.com/GamebP/rl_modes/raw/refs/heads/main/modes/idk/2v2.save"
         }
     }
 }
